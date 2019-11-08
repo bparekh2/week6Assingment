@@ -20,6 +20,7 @@ Also major of Males have been diagnoised by diabetes then female.
 
 <h2> Titanic Data</h2>
 The output of box plots of train_titanic.csv. As we analyze the graph we can se there are many outliers in both male and female fares.
+
 ![diabetes](Titanic_train_data.png)
 
 The Males have most of fares ranging from 10 - 30 and outliers go upto 500. Same is with female fares ranging from 20 to 60. the whisker of males show mostly towards fare costing 10 and whisker for female shows more towards 30. The over boxplots shows males average cost is low and females are more but the outliers mostly remains same for both of them. 
