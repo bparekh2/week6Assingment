@@ -1,8 +1,8 @@
 # Week 6 Assingment
-Diabetes Data Analysis
+<h2>Diabetes Data Analysis</h2>
 
 The Diabetes can be analysed many factors. BMI(Body mass index) is one of the critcal factor to analyze Diabetes.
-As BMI increases in male above normal weight level there are more chances the person have diabetes. Also, Higher BMI levels in male have higer chances of Diabetes then in female BMI.
+As BMI increases in male above normal weight level there are more chances the person have diabetes. Also, Higher BMI levels in male have higher chances of Diabetes then in female BMI.
 Any increase in BMI above normal weight levels is associated with an increased risk of being diagnosed as having complications of diabetes
 
 ![diabetes](diabetes_SEX_BMI_scatter.png)
@@ -16,3 +16,8 @@ As per the image above bmi is asscociated with the diabetes. And inscrease in BM
 
 Also major of Males have been diagnoised by diabetes then female.
 ![diabetes](BP-diabetes-pie.png)
+
+
+<h2> Titanic Data</h2>
+The output of box plots of train_titanic.csv. As we analyze the graph we can se there are many  outliers int bot male and female fares.
+
